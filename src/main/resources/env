@@ -1,0 +1,4 @@
+mdb = "movie-api-db"
+muser = "apxmvrc21"
+mpass = "vidhit21"
+mclus = "cluster0.su4v87f.mongodb.net"
